@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\TT\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\TT\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\administrator\documents\visual studio 2015\Projects\TT\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\TT\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\TT\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\TT\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\TT\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\administrator\documents\visual studio 2015\Projects\TT\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\TT\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\TT\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Database1.mdf
+c:\users\administrator\documents\visual studio 2015\Projects\TT\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Database1_log.ldf

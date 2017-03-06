@@ -1,0 +1,25 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>showPage</title>
+</head>
+<body>
+    Please select your first number: <br />
+    @{ 
+        for (int i=1; i <= 100; i++)
+        {
+            <a href="/second/@i"> @i </a>
+            <br />
+        }
+    }
+     
+    
+</body>
+</html>

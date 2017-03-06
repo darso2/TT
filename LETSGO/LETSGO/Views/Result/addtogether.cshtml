@@ -1,0 +1,21 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>addtogether</title>
+</head>
+<body>
+    <form action="home">
+        @ViewData["a"] + @ViewData["b"] <br />
+        Total @ViewData["result"].
+        <br />
+        <input id="Submit1" type="submit" value="Go back" />
+    </form>
+</body>
+</html>

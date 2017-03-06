@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\TT\StringApplication\StringApplication\bin\Debug\StringApplication.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\TT\StringApplication\StringApplication\bin\Debug\StringApplication.exe
+c:\users\administrator\documents\visual studio 2015\Projects\TT\StringApplication\StringApplication\bin\Debug\StringApplication.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\TT\StringApplication\StringApplication\obj\Debug\StringApplication.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\TT\StringApplication\StringApplication\obj\Debug\StringApplication.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\TT\StringApplication\StringApplication\obj\Debug\StringApplication.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\TT\StringApplication\StringApplication\obj\Debug\StringApplication.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\TT\StringApplication\StringApplication\obj\Debug\StringApplication.exe
+c:\users\administrator\documents\visual studio 2015\Projects\TT\StringApplication\StringApplication\obj\Debug\StringApplication.pdb
